@@ -1,0 +1,7 @@
+{
+  "name": "ResultSaathi Pro",
+  "description": "Enterprise-grade academic intelligence system for Bihar schools. Handling 60+ students per class with AI-driven pedagogical insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
